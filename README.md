@@ -6,7 +6,10 @@ In my first database project I used MySQL. I designed tables, created relationsh
 ______________________________________________________________________________________________________________________________________________________________________
 
 
-Personal propuse
+## Personal propuse
 
-Being passionate about software testing, I realized the importance of understanding databases. This journey aimed to blend my newfound knowledge, simplifying complex concepts into practical applications.
+Being passionate about software testing, I realized the importance of understanding databases. This journey aimed to blend my newfound knowledge, simplifying complex concepts into practical applications. I used MySQL as Database Management System (DBMS)
 ______________________________________________________________________________________________________________________________________________________________________
+
+## Datebase Design 
+
