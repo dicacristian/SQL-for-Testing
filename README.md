@@ -23,3 +23,24 @@ ________________________________________________________________________________
 
 Post table creation, I delved into executing CRUD and JOIN operations. Through  MySQL commands, I honed my skills in fundamental database operations. This hands-on practice solidified my understanding of essential concepts.
 
+**1.CREATE (INSERT)** 
+
+![image](https://github.com/dicacristian/SQL-for-Testing/assets/85904271/6e9c7b2b-75d1-490c-88fe-322389cb0b16)
+
+**2.READ(SELECT)**
+
+![image](https://github.com/dicacristian/SQL-for-Testing/assets/85904271/f479e1e0-2beb-416d-9abc-948881f9abfc)
+
+**3.UPDATE**
+
+![image](https://github.com/dicacristian/SQL-for-Testing/assets/85904271/96b39578-5d30-4519-bbeb-b0ef9ee24e30)
+
+**4.DELETE**
+
+![image](https://github.com/dicacristian/SQL-for-Testing/assets/85904271/c274ad38-fc5c-44b1-9a87-4eb9dec4a054)
+
+**5.JOIN**
+
+![image](https://github.com/dicacristian/SQL-for-Testing/assets/85904271/f237d8c1-7e70-40db-861d-8fe9b9fcabc4)
+
+
