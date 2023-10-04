@@ -1,7 +1,7 @@
 # SQL-for-Testing
 
 
-In my first database project I used MySQL. I designed tables, created relationships, and honed my SQL skills. This project ignited my passion for databases, and I'm excited to explore more.
+In my first database project I used MySQL. I designed tables, created relationships, and performed my SQL skills : . This project ignited my passion for databases, and I'm excited to explore more.
 
 ______________________________________________________________________________________________________________________________________________________________________
 
